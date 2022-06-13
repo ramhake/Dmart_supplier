@@ -1,0 +1,1976 @@
+[
+  {
+    "ID": {
+      "THE BEST": {
+        "178974": {
+          "https://groceries.dmart.com/browse/178974": {
+            "": {
+              "": {
+                "": {
+                  "": {
+                    "": ""
+                  }
+                }
+              }
+            },
+            "BAKERY & CAKES": {
+              "178971": {
+                "https://groceries.dmart.com/browse/178974/178971": {
+                  "": {
+                    "": ""
+                  },
+                  "BREAD & BREAD ROLLS": {
+                    "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                  },
+                  "CAKES, PIES & TARTS": {
+                    "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                  },
+                  "CROISSANTS & BREAKFAST BAKERY": {
+                    "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                  },
+                  "DESSERTS & PUDDINGS": {
+                    "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                  },
+                  "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                    "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                  }
+                }
+              }
+            },
+            "DRINKS": {
+              "178973": {
+                "https://groceries.dmart.com/browse/178974/178973": {
+                  "": {
+                    "": ""
+                  },
+                  "BEER": {
+                    "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                  },
+                  "SOFT DRINKS": {
+                    "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                  },
+                  "WINE & SPARKLING": {
+                    "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                  }
+                }
+              }
+            },
+            "FOOD CUPBOARD": {
+              "178970": {
+                "https://groceries.dmart.com/browse/178974/178970": {
+                  "": {
+                    "": ""
+                  },
+                  "ANTIPASTI": {
+                    "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                  },
+                  "BISCUITS & CRACKERS": {
+                    "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                  },
+                  "BREAKFAST CEREALS": {
+                    "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                  },
+                  "CHOCOLATE & SWEETS": {
+                    "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                  },
+                  "CONDIMENTS & DRESSINGS": {
+                    "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                  },
+                  "CRISPS & SAVOURY SNACKS": {
+                    "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                  },
+                  "HOMEBAKING": {
+                    "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                  },
+                  "JAMS, SPREADS & CHUTNEYS": {
+                    "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                  },
+                  "PASTA": {
+                    "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                  },
+                  "PUDDINGS & DESSERTS": {
+                    "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                  },
+                  "SAUCES, STOCKS & GRAVY": {
+                    "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                  },
+                  "TEA & COFFEE": {
+                    "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                  },
+                  "TINS & CANS": {
+                    "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                  }
+                }
+              }
+            },
+            "FRESH": {
+              "178969": {
+                "https://groceries.dmart.com/browse/178974/178969": {
+                  "": {
+                    "": ""
+                  },
+                  "CHEESE": {
+                    "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                  },
+                  "COOKED MEAT & ANTIPASTI": {
+                    "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                  },
+                  "DAIRY & EGGS": {
+                    "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                  },
+                  "DESSERTS": {
+                    "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                  },
+                  "DRINKS": {
+                    "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                  },
+                  "FISH & SEAFOOD": {
+                    "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                  },
+                  "FRUIT & VEGETABLES": {
+                    "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                  },
+                  "MEAT & POULTRY": {
+                    "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                  },
+                  "NUTS & SNACKS": {
+                    "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                  },
+                  "PIES & QUICHES ": {
+                    "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                  },
+                  "PIZZA, PASTA & GARLIC BREAD": {
+                    "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                  },
+                  "READY MEALS": {
+                    "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                  },
+                  "SAVOURY SNACKS & CHILLED": {
+                    "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                  },
+                  "SOUPS & SAUCES": {
+                    "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                  },
+                  "VEGETARIAN": {
+                    "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                  }
+                }
+              }
+            },
+            "FROZEN": {
+              "178972": {
+                "https://groceries.dmart.com/browse/178974/178972": {
+                  "": {
+                    "": ""
+                  },
+                  "CAKES, PIES & TARTS": {
+                    "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                  },
+                  "CHIPS, POTATOES & VEGETABLES": {
+                    "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                  },
+                  "DESSERTS": {
+                    "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                  },
+                  "FISH & SEAFOOD": {
+                    "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                  },
+                  "ICE CREAM & LOLLIES": {
+                    "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                  },
+                  "MEAT & POULTRY": {
+                    "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                  },
+                  "PIES & PASTRIES": {
+                    "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                  },
+                  "PIZZA & GARLIC BREAD": {
+                    "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                  },
+                  "READY MEALS": {
+                    "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Name": "https://groceries.dmart.com/browse",
+    "URL": "https://groceries.dmart.com/browse",
+    "children": [
+      {
+        "ID": {
+          "178974": {
+            "https://groceries.dmart.com/browse/178974": {
+              "": {
+                "": {
+                  "": {
+                    "": {
+                      "": ""
+                    }
+                  }
+                }
+              },
+              "BAKERY & CAKES": {
+                "178971": {
+                  "https://groceries.dmart.com/browse/178974/178971": {
+                    "": {
+                      "": ""
+                    },
+                    "BREAD & BREAD ROLLS": {
+                      "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                    },
+                    "CAKES, PIES & TARTS": {
+                      "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                    },
+                    "CROISSANTS & BREAKFAST BAKERY": {
+                      "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                    },
+                    "DESSERTS & PUDDINGS": {
+                      "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                    },
+                    "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                      "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                    }
+                  }
+                }
+              },
+              "DRINKS": {
+                "178973": {
+                  "https://groceries.dmart.com/browse/178974/178973": {
+                    "": {
+                      "": ""
+                    },
+                    "BEER": {
+                      "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                    },
+                    "SOFT DRINKS": {
+                      "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                    },
+                    "WINE & SPARKLING": {
+                      "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                    }
+                  }
+                }
+              },
+              "FOOD CUPBOARD": {
+                "178970": {
+                  "https://groceries.dmart.com/browse/178974/178970": {
+                    "": {
+                      "": ""
+                    },
+                    "ANTIPASTI": {
+                      "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                    },
+                    "BISCUITS & CRACKERS": {
+                      "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                    },
+                    "BREAKFAST CEREALS": {
+                      "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                    },
+                    "CHOCOLATE & SWEETS": {
+                      "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                    },
+                    "CONDIMENTS & DRESSINGS": {
+                      "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                    },
+                    "CRISPS & SAVOURY SNACKS": {
+                      "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                    },
+                    "HOMEBAKING": {
+                      "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                    },
+                    "JAMS, SPREADS & CHUTNEYS": {
+                      "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                    },
+                    "PASTA": {
+                      "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                    },
+                    "PUDDINGS & DESSERTS": {
+                      "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                    },
+                    "SAUCES, STOCKS & GRAVY": {
+                      "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                    },
+                    "TEA & COFFEE": {
+                      "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                    },
+                    "TINS & CANS": {
+                      "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                    }
+                  }
+                }
+              },
+              "FRESH": {
+                "178969": {
+                  "https://groceries.dmart.com/browse/178974/178969": {
+                    "": {
+                      "": ""
+                    },
+                    "CHEESE": {
+                      "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                    },
+                    "COOKED MEAT & ANTIPASTI": {
+                      "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                    },
+                    "DAIRY & EGGS": {
+                      "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                    },
+                    "DESSERTS": {
+                      "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                    },
+                    "DRINKS": {
+                      "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                    },
+                    "FISH & SEAFOOD": {
+                      "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                    },
+                    "FRUIT & VEGETABLES": {
+                      "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                    },
+                    "MEAT & POULTRY": {
+                      "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                    },
+                    "NUTS & SNACKS": {
+                      "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                    },
+                    "PIES & QUICHES ": {
+                      "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                    },
+                    "PIZZA, PASTA & GARLIC BREAD": {
+                      "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                    },
+                    "READY MEALS": {
+                      "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                    },
+                    "SAVOURY SNACKS & CHILLED": {
+                      "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                    },
+                    "SOUPS & SAUCES": {
+                      "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                    },
+                    "VEGETARIAN": {
+                      "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                    }
+                  }
+                }
+              },
+              "FROZEN": {
+                "178972": {
+                  "https://groceries.dmart.com/browse/178974/178972": {
+                    "": {
+                      "": ""
+                    },
+                    "CAKES, PIES & TARTS": {
+                      "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                    },
+                    "CHIPS, POTATOES & VEGETABLES": {
+                      "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                    },
+                    "DESSERTS": {
+                      "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                    },
+                    "FISH & SEAFOOD": {
+                      "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                    },
+                    "ICE CREAM & LOLLIES": {
+                      "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                    },
+                    "MEAT & POULTRY": {
+                      "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                    },
+                    "PIES & PASTRIES": {
+                      "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                    },
+                    "PIZZA & GARLIC BREAD": {
+                      "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                    },
+                    "READY MEALS": {
+                      "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Name": "THE BEST",
+        "URL": "THE BEST",
+        "children": [
+          {
+            "ID": {
+              "https://groceries.dmart.com/browse/178974": {
+                "": {
+                  "": {
+                    "": {
+                      "": {
+                        "": ""
+                      }
+                    }
+                  }
+                },
+                "BAKERY & CAKES": {
+                  "178971": {
+                    "https://groceries.dmart.com/browse/178974/178971": {
+                      "": {
+                        "": ""
+                      },
+                      "BREAD & BREAD ROLLS": {
+                        "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                      },
+                      "CAKES, PIES & TARTS": {
+                        "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                      },
+                      "CROISSANTS & BREAKFAST BAKERY": {
+                        "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                      },
+                      "DESSERTS & PUDDINGS": {
+                        "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                      },
+                      "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                        "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                      }
+                    }
+                  }
+                },
+                "DRINKS": {
+                  "178973": {
+                    "https://groceries.dmart.com/browse/178974/178973": {
+                      "": {
+                        "": ""
+                      },
+                      "BEER": {
+                        "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                      },
+                      "SOFT DRINKS": {
+                        "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                      },
+                      "WINE & SPARKLING": {
+                        "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                      }
+                    }
+                  }
+                },
+                "FOOD CUPBOARD": {
+                  "178970": {
+                    "https://groceries.dmart.com/browse/178974/178970": {
+                      "": {
+                        "": ""
+                      },
+                      "ANTIPASTI": {
+                        "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                      },
+                      "BISCUITS & CRACKERS": {
+                        "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                      },
+                      "BREAKFAST CEREALS": {
+                        "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                      },
+                      "CHOCOLATE & SWEETS": {
+                        "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                      },
+                      "CONDIMENTS & DRESSINGS": {
+                        "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                      },
+                      "CRISPS & SAVOURY SNACKS": {
+                        "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                      },
+                      "HOMEBAKING": {
+                        "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                      },
+                      "JAMS, SPREADS & CHUTNEYS": {
+                        "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                      },
+                      "PASTA": {
+                        "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                      },
+                      "PUDDINGS & DESSERTS": {
+                        "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                      },
+                      "SAUCES, STOCKS & GRAVY": {
+                        "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                      },
+                      "TEA & COFFEE": {
+                        "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                      },
+                      "TINS & CANS": {
+                        "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                      }
+                    }
+                  }
+                },
+                "FRESH": {
+                  "178969": {
+                    "https://groceries.dmart.com/browse/178974/178969": {
+                      "": {
+                        "": ""
+                      },
+                      "CHEESE": {
+                        "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                      },
+                      "COOKED MEAT & ANTIPASTI": {
+                        "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                      },
+                      "DAIRY & EGGS": {
+                        "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                      },
+                      "DESSERTS": {
+                        "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                      },
+                      "DRINKS": {
+                        "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                      },
+                      "FISH & SEAFOOD": {
+                        "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                      },
+                      "FRUIT & VEGETABLES": {
+                        "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                      },
+                      "MEAT & POULTRY": {
+                        "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                      },
+                      "NUTS & SNACKS": {
+                        "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                      },
+                      "PIES & QUICHES ": {
+                        "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                      },
+                      "PIZZA, PASTA & GARLIC BREAD": {
+                        "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                      },
+                      "READY MEALS": {
+                        "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                      },
+                      "SAVOURY SNACKS & CHILLED": {
+                        "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                      },
+                      "SOUPS & SAUCES": {
+                        "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                      },
+                      "VEGETARIAN": {
+                        "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                      }
+                    }
+                  }
+                },
+                "FROZEN": {
+                  "178972": {
+                    "https://groceries.dmart.com/browse/178974/178972": {
+                      "": {
+                        "": ""
+                      },
+                      "CAKES, PIES & TARTS": {
+                        "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                      },
+                      "CHIPS, POTATOES & VEGETABLES": {
+                        "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                      },
+                      "DESSERTS": {
+                        "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                      },
+                      "FISH & SEAFOOD": {
+                        "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                      },
+                      "ICE CREAM & LOLLIES": {
+                        "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                      },
+                      "MEAT & POULTRY": {
+                        "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                      },
+                      "PIES & PASTRIES": {
+                        "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                      },
+                      "PIZZA & GARLIC BREAD": {
+                        "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                      },
+                      "READY MEALS": {
+                        "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Name": "178974",
+            "URL": "178974",
+            "children": [
+              {
+                "ID": {
+                  "": {
+                    "": {
+                      "": {
+                        "": {
+                          "": ""
+                        }
+                      }
+                    }
+                  },
+                  "BAKERY & CAKES": {
+                    "178971": {
+                      "https://groceries.dmart.com/browse/178974/178971": {
+                        "": {
+                          "": ""
+                        },
+                        "BREAD & BREAD ROLLS": {
+                          "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                        },
+                        "CAKES, PIES & TARTS": {
+                          "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                        },
+                        "CROISSANTS & BREAKFAST BAKERY": {
+                          "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                        },
+                        "DESSERTS & PUDDINGS": {
+                          "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                        },
+                        "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                          "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                        }
+                      }
+                    }
+                  },
+                  "DRINKS": {
+                    "178973": {
+                      "https://groceries.dmart.com/browse/178974/178973": {
+                        "": {
+                          "": ""
+                        },
+                        "BEER": {
+                          "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                        },
+                        "SOFT DRINKS": {
+                          "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                        },
+                        "WINE & SPARKLING": {
+                          "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                        }
+                      }
+                    }
+                  },
+                  "FOOD CUPBOARD": {
+                    "178970": {
+                      "https://groceries.dmart.com/browse/178974/178970": {
+                        "": {
+                          "": ""
+                        },
+                        "ANTIPASTI": {
+                          "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                        },
+                        "BISCUITS & CRACKERS": {
+                          "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                        },
+                        "BREAKFAST CEREALS": {
+                          "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                        },
+                        "CHOCOLATE & SWEETS": {
+                          "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                        },
+                        "CONDIMENTS & DRESSINGS": {
+                          "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                        },
+                        "CRISPS & SAVOURY SNACKS": {
+                          "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                        },
+                        "HOMEBAKING": {
+                          "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                        },
+                        "JAMS, SPREADS & CHUTNEYS": {
+                          "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                        },
+                        "PASTA": {
+                          "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                        },
+                        "PUDDINGS & DESSERTS": {
+                          "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                        },
+                        "SAUCES, STOCKS & GRAVY": {
+                          "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                        },
+                        "TEA & COFFEE": {
+                          "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                        },
+                        "TINS & CANS": {
+                          "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                        }
+                      }
+                    }
+                  },
+                  "FRESH": {
+                    "178969": {
+                      "https://groceries.dmart.com/browse/178974/178969": {
+                        "": {
+                          "": ""
+                        },
+                        "CHEESE": {
+                          "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                        },
+                        "COOKED MEAT & ANTIPASTI": {
+                          "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                        },
+                        "DAIRY & EGGS": {
+                          "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                        },
+                        "DESSERTS": {
+                          "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                        },
+                        "DRINKS": {
+                          "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                        },
+                        "FISH & SEAFOOD": {
+                          "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                        },
+                        "FRUIT & VEGETABLES": {
+                          "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                        },
+                        "MEAT & POULTRY": {
+                          "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                        },
+                        "NUTS & SNACKS": {
+                          "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                        },
+                        "PIES & QUICHES ": {
+                          "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                        },
+                        "PIZZA, PASTA & GARLIC BREAD": {
+                          "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                        },
+                        "READY MEALS": {
+                          "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                        },
+                        "SAVOURY SNACKS & CHILLED": {
+                          "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                        },
+                        "SOUPS & SAUCES": {
+                          "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                        },
+                        "VEGETARIAN": {
+                          "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                        }
+                      }
+                    }
+                  },
+                  "FROZEN": {
+                    "178972": {
+                      "https://groceries.dmart.com/browse/178974/178972": {
+                        "": {
+                          "": ""
+                        },
+                        "CAKES, PIES & TARTS": {
+                          "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                        },
+                        "CHIPS, POTATOES & VEGETABLES": {
+                          "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                        },
+                        "DESSERTS": {
+                          "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                        },
+                        "FISH & SEAFOOD": {
+                          "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                        },
+                        "ICE CREAM & LOLLIES": {
+                          "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                        },
+                        "MEAT & POULTRY": {
+                          "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                        },
+                        "PIES & PASTRIES": {
+                          "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                        },
+                        "PIZZA & GARLIC BREAD": {
+                          "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                        },
+                        "READY MEALS": {
+                          "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                        }
+                      }
+                    }
+                  }
+                },
+                "Name": "https://groceries.dmart.com/browse/178974",
+                "URL": "https://groceries.dmart.com/browse/178974",
+                "children": [
+                  {
+                    "ID": {
+                      "": {
+                        "": {
+                          "": {
+                            "": ""
+                          }
+                        }
+                      }
+                    },
+                    "Name": "",
+                    "URL": "",
+                    "children": [
+                      {
+                        "ID": {
+                          "": {
+                            "": {
+                              "": ""
+                            }
+                          }
+                        },
+                        "Name": "",
+                        "URL": "",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              }
+                            },
+                            "Name": "",
+                            "URL": "",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "ID": {
+                      "178969": {
+                        "https://groceries.dmart.com/browse/178974/178969": {
+                          "": {
+                            "": ""
+                          },
+                          "CHEESE": {
+                            "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                          },
+                          "COOKED MEAT & ANTIPASTI": {
+                            "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                          },
+                          "DAIRY & EGGS": {
+                            "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                          },
+                          "DESSERTS": {
+                            "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                          },
+                          "DRINKS": {
+                            "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                          },
+                          "FISH & SEAFOOD": {
+                            "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                          },
+                          "FRUIT & VEGETABLES": {
+                            "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                          },
+                          "MEAT & POULTRY": {
+                            "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                          },
+                          "NUTS & SNACKS": {
+                            "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                          },
+                          "PIES & QUICHES ": {
+                            "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                          },
+                          "PIZZA, PASTA & GARLIC BREAD": {
+                            "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                          },
+                          "READY MEALS": {
+                            "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                          },
+                          "SAVOURY SNACKS & CHILLED": {
+                            "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                          },
+                          "SOUPS & SAUCES": {
+                            "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                          },
+                          "VEGETARIAN": {
+                            "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                          }
+                        }
+                      }
+                    },
+                    "Name": "FRESH",
+                    "URL": "FRESH",
+                    "children": [
+                      {
+                        "ID": {
+                          "https://groceries.dmart.com/browse/178974/178969": {
+                            "": {
+                              "": ""
+                            },
+                            "CHEESE": {
+                              "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                            },
+                            "COOKED MEAT & ANTIPASTI": {
+                              "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                            },
+                            "DAIRY & EGGS": {
+                              "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                            },
+                            "DESSERTS": {
+                              "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                            },
+                            "DRINKS": {
+                              "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                            },
+                            "FISH & SEAFOOD": {
+                              "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                            },
+                            "FRUIT & VEGETABLES": {
+                              "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                            },
+                            "MEAT & POULTRY": {
+                              "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                            },
+                            "NUTS & SNACKS": {
+                              "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                            },
+                            "PIES & QUICHES ": {
+                              "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                            },
+                            "PIZZA, PASTA & GARLIC BREAD": {
+                              "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                            },
+                            "READY MEALS": {
+                              "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                            },
+                            "SAVOURY SNACKS & CHILLED": {
+                              "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                            },
+                            "SOUPS & SAUCES": {
+                              "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                            },
+                            "VEGETARIAN": {
+                              "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                            }
+                          }
+                        },
+                        "Name": "178969",
+                        "URL": "178969",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              },
+                              "CHEESE": {
+                                "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                              },
+                              "COOKED MEAT & ANTIPASTI": {
+                                "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                              },
+                              "DAIRY & EGGS": {
+                                "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                              },
+                              "DESSERTS": {
+                                "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                              },
+                              "DRINKS": {
+                                "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                              },
+                              "FISH & SEAFOOD": {
+                                "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                              },
+                              "FRUIT & VEGETABLES": {
+                                "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                              },
+                              "MEAT & POULTRY": {
+                                "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                              },
+                              "NUTS & SNACKS": {
+                                "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                              },
+                              "PIES & QUICHES ": {
+                                "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                              },
+                              "PIZZA, PASTA & GARLIC BREAD": {
+                                "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                              },
+                              "READY MEALS": {
+                                "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                              },
+                              "SAVOURY SNACKS & CHILLED": {
+                                "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                              },
+                              "SOUPS & SAUCES": {
+                                "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                              },
+                              "VEGETARIAN": {
+                                "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                              }
+                            },
+                            "Name": "https://groceries.dmart.com/browse/178974/178969",
+                            "URL": "https://groceries.dmart.com/browse/178974/178969",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178975": "https://groceries.dmart.com/browse/178974/178969/178975"
+                                },
+                                "Name": "CHEESE",
+                                "URL": "CHEESE",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178976": "https://groceries.dmart.com/browse/178974/178969/178976"
+                                },
+                                "Name": "COOKED MEAT & ANTIPASTI",
+                                "URL": "COOKED MEAT & ANTIPASTI",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178977": "https://groceries.dmart.com/browse/178974/178969/178977"
+                                },
+                                "Name": "DAIRY & EGGS",
+                                "URL": "DAIRY & EGGS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178978": "https://groceries.dmart.com/browse/178974/178969/178978"
+                                },
+                                "Name": "DESSERTS",
+                                "URL": "DESSERTS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178979": "https://groceries.dmart.com/browse/178974/178969/178979"
+                                },
+                                "Name": "DRINKS",
+                                "URL": "DRINKS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178980": "https://groceries.dmart.com/browse/178974/178969/178980"
+                                },
+                                "Name": "FISH & SEAFOOD",
+                                "URL": "FISH & SEAFOOD",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178981": "https://groceries.dmart.com/browse/178974/178969/178981"
+                                },
+                                "Name": "FRUIT & VEGETABLES",
+                                "URL": "FRUIT & VEGETABLES",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178982": "https://groceries.dmart.com/browse/178974/178969/178982"
+                                },
+                                "Name": "MEAT & POULTRY",
+                                "URL": "MEAT & POULTRY",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178983": "https://groceries.dmart.com/browse/178974/178969/178983"
+                                },
+                                "Name": "NUTS & SNACKS",
+                                "URL": "NUTS & SNACKS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178984": "https://groceries.dmart.com/browse/178974/178969/178984"
+                                },
+                                "Name": "PIES & QUICHES ",
+                                "URL": "PIES & QUICHES ",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178985": "https://groceries.dmart.com/browse/178974/178969/178985"
+                                },
+                                "Name": "PIZZA, PASTA & GARLIC BREAD",
+                                "URL": "PIZZA, PASTA & GARLIC BREAD",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178986": "https://groceries.dmart.com/browse/178974/178969/178986"
+                                },
+                                "Name": "READY MEALS",
+                                "URL": "READY MEALS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178987": "https://groceries.dmart.com/browse/178974/178969/178987"
+                                },
+                                "Name": "SAVOURY SNACKS & CHILLED",
+                                "URL": "SAVOURY SNACKS & CHILLED",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178988": "https://groceries.dmart.com/browse/178974/178969/178988"
+                                },
+                                "Name": "SOUPS & SAUCES",
+                                "URL": "SOUPS & SAUCES",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178989": "https://groceries.dmart.com/browse/178974/178969/178989"
+                                },
+                                "Name": "VEGETARIAN",
+                                "URL": "VEGETARIAN",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "ID": {
+                      "178970": {
+                        "https://groceries.dmart.com/browse/178974/178970": {
+                          "": {
+                            "": ""
+                          },
+                          "ANTIPASTI": {
+                            "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                          },
+                          "BISCUITS & CRACKERS": {
+                            "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                          },
+                          "BREAKFAST CEREALS": {
+                            "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                          },
+                          "CHOCOLATE & SWEETS": {
+                            "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                          },
+                          "CONDIMENTS & DRESSINGS": {
+                            "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                          },
+                          "CRISPS & SAVOURY SNACKS": {
+                            "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                          },
+                          "HOMEBAKING": {
+                            "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                          },
+                          "JAMS, SPREADS & CHUTNEYS": {
+                            "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                          },
+                          "PASTA": {
+                            "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                          },
+                          "PUDDINGS & DESSERTS": {
+                            "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                          },
+                          "SAUCES, STOCKS & GRAVY": {
+                            "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                          },
+                          "TEA & COFFEE": {
+                            "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                          },
+                          "TINS & CANS": {
+                            "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                          }
+                        }
+                      }
+                    },
+                    "Name": "FOOD CUPBOARD",
+                    "URL": "FOOD CUPBOARD",
+                    "children": [
+                      {
+                        "ID": {
+                          "https://groceries.dmart.com/browse/178974/178970": {
+                            "": {
+                              "": ""
+                            },
+                            "ANTIPASTI": {
+                              "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                            },
+                            "BISCUITS & CRACKERS": {
+                              "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                            },
+                            "BREAKFAST CEREALS": {
+                              "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                            },
+                            "CHOCOLATE & SWEETS": {
+                              "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                            },
+                            "CONDIMENTS & DRESSINGS": {
+                              "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                            },
+                            "CRISPS & SAVOURY SNACKS": {
+                              "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                            },
+                            "HOMEBAKING": {
+                              "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                            },
+                            "JAMS, SPREADS & CHUTNEYS": {
+                              "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                            },
+                            "PASTA": {
+                              "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                            },
+                            "PUDDINGS & DESSERTS": {
+                              "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                            },
+                            "SAUCES, STOCKS & GRAVY": {
+                              "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                            },
+                            "TEA & COFFEE": {
+                              "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                            },
+                            "TINS & CANS": {
+                              "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                            }
+                          }
+                        },
+                        "Name": "178970",
+                        "URL": "178970",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              },
+                              "ANTIPASTI": {
+                                "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                              },
+                              "BISCUITS & CRACKERS": {
+                                "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                              },
+                              "BREAKFAST CEREALS": {
+                                "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                              },
+                              "CHOCOLATE & SWEETS": {
+                                "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                              },
+                              "CONDIMENTS & DRESSINGS": {
+                                "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                              },
+                              "CRISPS & SAVOURY SNACKS": {
+                                "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                              },
+                              "HOMEBAKING": {
+                                "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                              },
+                              "JAMS, SPREADS & CHUTNEYS": {
+                                "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                              },
+                              "PASTA": {
+                                "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                              },
+                              "PUDDINGS & DESSERTS": {
+                                "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                              },
+                              "SAUCES, STOCKS & GRAVY": {
+                                "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                              },
+                              "TEA & COFFEE": {
+                                "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                              },
+                              "TINS & CANS": {
+                                "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                              }
+                            },
+                            "Name": "https://groceries.dmart.com/browse/178974/178970",
+                            "URL": "https://groceries.dmart.com/browse/178974/178970",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178990": "https://groceries.dmart.com/browse/178974/178970/178990"
+                                },
+                                "Name": "ANTIPASTI",
+                                "URL": "ANTIPASTI",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178991": "https://groceries.dmart.com/browse/178974/178970/178991"
+                                },
+                                "Name": "BISCUITS & CRACKERS",
+                                "URL": "BISCUITS & CRACKERS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178992": "https://groceries.dmart.com/browse/178974/178970/178992"
+                                },
+                                "Name": "BREAKFAST CEREALS",
+                                "URL": "BREAKFAST CEREALS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178993": "https://groceries.dmart.com/browse/178974/178970/178993"
+                                },
+                                "Name": "CHOCOLATE & SWEETS",
+                                "URL": "CHOCOLATE & SWEETS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178994": "https://groceries.dmart.com/browse/178974/178970/178994"
+                                },
+                                "Name": "CONDIMENTS & DRESSINGS",
+                                "URL": "CONDIMENTS & DRESSINGS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "178995": "https://groceries.dmart.com/browse/178974/178970/178995"
+                                },
+                                "Name": "CRISPS & SAVOURY SNACKS",
+                                "URL": "CRISPS & SAVOURY SNACKS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179016": "https://groceries.dmart.com/browse/178974/178970/179016"
+                                },
+                                "Name": "HOMEBAKING",
+                                "URL": "HOMEBAKING",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179017": "https://groceries.dmart.com/browse/178974/178970/179017"
+                                },
+                                "Name": "JAMS, SPREADS & CHUTNEYS",
+                                "URL": "JAMS, SPREADS & CHUTNEYS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179018": "https://groceries.dmart.com/browse/178974/178970/179018"
+                                },
+                                "Name": "PASTA",
+                                "URL": "PASTA",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179019": "https://groceries.dmart.com/browse/178974/178970/179019"
+                                },
+                                "Name": "PUDDINGS & DESSERTS",
+                                "URL": "PUDDINGS & DESSERTS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179020": "https://groceries.dmart.com/browse/178974/178970/179020"
+                                },
+                                "Name": "SAUCES, STOCKS & GRAVY",
+                                "URL": "SAUCES, STOCKS & GRAVY",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179021": "https://groceries.dmart.com/browse/178974/178970/179021"
+                                },
+                                "Name": "TEA & COFFEE",
+                                "URL": "TEA & COFFEE",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179022": "https://groceries.dmart.com/browse/178974/178970/179022"
+                                },
+                                "Name": "TINS & CANS",
+                                "URL": "TINS & CANS",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "ID": {
+                      "178971": {
+                        "https://groceries.dmart.com/browse/178974/178971": {
+                          "": {
+                            "": ""
+                          },
+                          "BREAD & BREAD ROLLS": {
+                            "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                          },
+                          "CAKES, PIES & TARTS": {
+                            "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                          },
+                          "CROISSANTS & BREAKFAST BAKERY": {
+                            "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                          },
+                          "DESSERTS & PUDDINGS": {
+                            "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                          },
+                          "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                            "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                          }
+                        }
+                      }
+                    },
+                    "Name": "BAKERY & CAKES",
+                    "URL": "BAKERY & CAKES",
+                    "children": [
+                      {
+                        "ID": {
+                          "https://groceries.dmart.com/browse/178974/178971": {
+                            "": {
+                              "": ""
+                            },
+                            "BREAD & BREAD ROLLS": {
+                              "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                            },
+                            "CAKES, PIES & TARTS": {
+                              "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                            },
+                            "CROISSANTS & BREAKFAST BAKERY": {
+                              "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                            },
+                            "DESSERTS & PUDDINGS": {
+                              "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                            },
+                            "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                              "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                            }
+                          }
+                        },
+                        "Name": "178971",
+                        "URL": "178971",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              },
+                              "BREAD & BREAD ROLLS": {
+                                "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                              },
+                              "CAKES, PIES & TARTS": {
+                                "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                              },
+                              "CROISSANTS & BREAKFAST BAKERY": {
+                                "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                              },
+                              "DESSERTS & PUDDINGS": {
+                                "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                              },
+                              "FRUITED BREAD, SCONES & HOT CROSS BUNS": {
+                                "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                              }
+                            },
+                            "Name": "https://groceries.dmart.com/browse/178974/178971",
+                            "URL": "https://groceries.dmart.com/browse/178974/178971",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179023": "https://groceries.dmart.com/browse/178974/178971/179023"
+                                },
+                                "Name": "BREAD & BREAD ROLLS",
+                                "URL": "BREAD & BREAD ROLLS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179024": "https://groceries.dmart.com/browse/178974/178971/179024"
+                                },
+                                "Name": "CAKES, PIES & TARTS",
+                                "URL": "CAKES, PIES & TARTS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179025": "https://groceries.dmart.com/browse/178974/178971/179025"
+                                },
+                                "Name": "CROISSANTS & BREAKFAST BAKERY",
+                                "URL": "CROISSANTS & BREAKFAST BAKERY",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179026": "https://groceries.dmart.com/browse/178974/178971/179026"
+                                },
+                                "Name": "DESSERTS & PUDDINGS",
+                                "URL": "DESSERTS & PUDDINGS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179027": "https://groceries.dmart.com/browse/178974/178971/179027"
+                                },
+                                "Name": "FRUITED BREAD, SCONES & HOT CROSS BUNS",
+                                "URL": "FRUITED BREAD, SCONES & HOT CROSS BUNS",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "ID": {
+                      "178972": {
+                        "https://groceries.dmart.com/browse/178974/178972": {
+                          "": {
+                            "": ""
+                          },
+                          "CAKES, PIES & TARTS": {
+                            "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                          },
+                          "CHIPS, POTATOES & VEGETABLES": {
+                            "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                          },
+                          "DESSERTS": {
+                            "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                          },
+                          "FISH & SEAFOOD": {
+                            "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                          },
+                          "ICE CREAM & LOLLIES": {
+                            "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                          },
+                          "MEAT & POULTRY": {
+                            "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                          },
+                          "PIES & PASTRIES": {
+                            "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                          },
+                          "PIZZA & GARLIC BREAD": {
+                            "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                          },
+                          "READY MEALS": {
+                            "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                          }
+                        }
+                      }
+                    },
+                    "Name": "FROZEN",
+                    "URL": "FROZEN",
+                    "children": [
+                      {
+                        "ID": {
+                          "https://groceries.dmart.com/browse/178974/178972": {
+                            "": {
+                              "": ""
+                            },
+                            "CAKES, PIES & TARTS": {
+                              "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                            },
+                            "CHIPS, POTATOES & VEGETABLES": {
+                              "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                            },
+                            "DESSERTS": {
+                              "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                            },
+                            "FISH & SEAFOOD": {
+                              "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                            },
+                            "ICE CREAM & LOLLIES": {
+                              "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                            },
+                            "MEAT & POULTRY": {
+                              "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                            },
+                            "PIES & PASTRIES": {
+                              "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                            },
+                            "PIZZA & GARLIC BREAD": {
+                              "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                            },
+                            "READY MEALS": {
+                              "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                            }
+                          }
+                        },
+                        "Name": "178972",
+                        "URL": "178972",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              },
+                              "CAKES, PIES & TARTS": {
+                                "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                              },
+                              "CHIPS, POTATOES & VEGETABLES": {
+                                "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                              },
+                              "DESSERTS": {
+                                "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                              },
+                              "FISH & SEAFOOD": {
+                                "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                              },
+                              "ICE CREAM & LOLLIES": {
+                                "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                              },
+                              "MEAT & POULTRY": {
+                                "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                              },
+                              "PIES & PASTRIES": {
+                                "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                              },
+                              "PIZZA & GARLIC BREAD": {
+                                "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                              },
+                              "READY MEALS": {
+                                "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                              }
+                            },
+                            "Name": "https://groceries.dmart.com/browse/178974/178972",
+                            "URL": "https://groceries.dmart.com/browse/178974/178972",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179028": "https://groceries.dmart.com/browse/178974/178972/179028"
+                                },
+                                "Name": "CAKES, PIES & TARTS",
+                                "URL": "CAKES, PIES & TARTS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179029": "https://groceries.dmart.com/browse/178974/178972/179029"
+                                },
+                                "Name": "CHIPS, POTATOES & VEGETABLES",
+                                "URL": "CHIPS, POTATOES & VEGETABLES",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179030": "https://groceries.dmart.com/browse/178974/178972/179030"
+                                },
+                                "Name": "DESSERTS",
+                                "URL": "DESSERTS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179031": "https://groceries.dmart.com/browse/178974/178972/179031"
+                                },
+                                "Name": "FISH & SEAFOOD",
+                                "URL": "FISH & SEAFOOD",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179032": "https://groceries.dmart.com/browse/178974/178972/179032"
+                                },
+                                "Name": "ICE CREAM & LOLLIES",
+                                "URL": "ICE CREAM & LOLLIES",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179033": "https://groceries.dmart.com/browse/178974/178972/179033"
+                                },
+                                "Name": "MEAT & POULTRY",
+                                "URL": "MEAT & POULTRY",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179034": "https://groceries.dmart.com/browse/178974/178972/179034"
+                                },
+                                "Name": "PIES & PASTRIES",
+                                "URL": "PIES & PASTRIES",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179035": "https://groceries.dmart.com/browse/178974/178972/179035"
+                                },
+                                "Name": "PIZZA & GARLIC BREAD",
+                                "URL": "PIZZA & GARLIC BREAD",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179036": "https://groceries.dmart.com/browse/178974/178972/179036"
+                                },
+                                "Name": "READY MEALS",
+                                "URL": "READY MEALS",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "ID": {
+                      "178973": {
+                        "https://groceries.dmart.com/browse/178974/178973": {
+                          "": {
+                            "": ""
+                          },
+                          "BEER": {
+                            "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                          },
+                          "SOFT DRINKS": {
+                            "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                          },
+                          "WINE & SPARKLING": {
+                            "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                          }
+                        }
+                      }
+                    },
+                    "Name": "DRINKS",
+                    "URL": "DRINKS",
+                    "children": [
+                      {
+                        "ID": {
+                          "https://groceries.dmart.com/browse/178974/178973": {
+                            "": {
+                              "": ""
+                            },
+                            "BEER": {
+                              "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                            },
+                            "SOFT DRINKS": {
+                              "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                            },
+                            "WINE & SPARKLING": {
+                              "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                            }
+                          }
+                        },
+                        "Name": "178973",
+                        "URL": "178973",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              },
+                              "BEER": {
+                                "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                              },
+                              "SOFT DRINKS": {
+                                "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                              },
+                              "WINE & SPARKLING": {
+                                "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                              }
+                            },
+                            "Name": "https://groceries.dmart.com/browse/178974/178973",
+                            "URL": "https://groceries.dmart.com/browse/178974/178973",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179037": "https://groceries.dmart.com/browse/178974/178973/179037"
+                                },
+                                "Name": "SOFT DRINKS",
+                                "URL": "SOFT DRINKS",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179038": "https://groceries.dmart.com/browse/178974/178973/179038"
+                                },
+                                "Name": "WINE & SPARKLING",
+                                "URL": "WINE & SPARKLING",
+                                "children": []
+                              },
+                              {
+                                "ID": {
+                                  "179039": "https://groceries.dmart.com/browse/178974/178973/179039"
+                                },
+                                "Name": "BEER",
+                                "URL": "BEER",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": {
+      "": {
+        "": {
+          "": {
+            "": {
+              "": {
+                "": {
+                  "": {
+                    "": ""
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Name": "",
+    "URL": "",
+    "children": [
+      {
+        "ID": {
+          "": {
+            "": {
+              "": {
+                "": {
+                  "": {
+                    "": {
+                      "": ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Name": "",
+        "URL": "",
+        "children": [
+          {
+            "ID": {
+              "": {
+                "": {
+                  "": {
+                    "": {
+                      "": {
+                        "": ""
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Name": "",
+            "URL": "",
+            "children": [
+              {
+                "ID": {
+                  "": {
+                    "": {
+                      "": {
+                        "": {
+                          "": ""
+                        }
+                      }
+                    }
+                  }
+                },
+                "Name": "",
+                "URL": "",
+                "children": [
+                  {
+                    "ID": {
+                      "": {
+                        "": {
+                          "": {
+                            "": ""
+                          }
+                        }
+                      }
+                    },
+                    "Name": "",
+                    "URL": "",
+                    "children": [
+                      {
+                        "ID": {
+                          "": {
+                            "": {
+                              "": ""
+                            }
+                          }
+                        },
+                        "Name": "",
+                        "URL": "",
+                        "children": [
+                          {
+                            "ID": {
+                              "": {
+                                "": ""
+                              }
+                            },
+                            "Name": "",
+                            "URL": "",
+                            "children": [
+                              {
+                                "ID": {
+                                  "": ""
+                                },
+                                "Name": "",
+                                "URL": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
